@@ -1,13 +1,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Linux - Tag - Roxzmm</title>
+        <title>Linux - 标签 - Roxzmm</title>
         <link>https://Roxzmm.github.io/tags/linux/</link>
-        <description>Linux - Tag - Roxzmm</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</lastBuildDate><atom:link href="https://Roxzmm.github.io/tags/linux/" rel="self" type="application/rss+xml" /><item>
+        <description>Linux - 标签 - Roxzmm</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</lastBuildDate><atom:link href="https://Roxzmm.github.io/tags/linux/" rel="self" type="application/rss+xml" /><item>
     <title>Linux常用操作</title>
     <link>https://Roxzmm.github.io/linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</link>
     <pubDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</pubDate>
-    <author>Author</author>
+    <author>作者</author>
     <guid>https://Roxzmm.github.io/linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</guid>
     <description><![CDATA[Tags: #Linux #command Links: Linux常用操作 1.1 Linux系统的文件结构 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 /bin 二进制文件，系统常规命令 /boot 系统启动分区，系统启动时]]></description>
 </item></channel>
