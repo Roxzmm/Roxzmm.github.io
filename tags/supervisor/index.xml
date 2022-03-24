@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Supervisor - Tag - Roxzmm</title>
-        <link>http://example.org/tags/supervisor/</link>
+        <link>https://Roxzmm.github.io/tags/supervisor/</link>
         <description>Supervisor - Tag - Roxzmm</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/supervisor/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</lastBuildDate><atom:link href="https://Roxzmm.github.io/tags/supervisor/" rel="self" type="application/rss+xml" /><item>
     <title>Python下web.py的环境部署</title>
-    <link>http://example.org/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</link>
+    <link>https://Roxzmm.github.io/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</link>
     <pubDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</guid>
+    <guid>https://Roxzmm.github.io/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</guid>
     <description><![CDATA[Tags: #python #webpy #环境部署 Links: [[Python下web.py使用ssl加密]], [[Python实现开发模式下公众号自动回复]] Python下web.p]]></description>
 </item></channel>
 </rss>

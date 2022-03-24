@@ -1,35 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>服务器 - Category - Roxzmm</title>
-        <link>http://example.org/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+        <link>https://Roxzmm.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
         <description>服务器 - Category - Roxzmm</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</lastBuildDate><atom:link href="https://Roxzmm.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
     <title>Linux常用操作</title>
-    <link>http://example.org/linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</link>
+    <link>https://Roxzmm.github.io/linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</link>
     <pubDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</guid>
+    <guid>https://Roxzmm.github.io/linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</guid>
     <description><![CDATA[Tags: #Linux #command Links: Linux常用操作 1.1 Linux系统的文件结构 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 /bin 二进制文件，系统常规命令 /boot 系统启动分区，系统启动时]]></description>
 </item><item>
     <title>nginx反向代理(端口转发)</title>
-    <link>http://example.org/nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/</link>
+    <link>https://Roxzmm.github.io/nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/</link>
     <pubDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/</guid>
+    <guid>https://Roxzmm.github.io/nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/</guid>
     <description><![CDATA[Tags: #nginx #反向代理 #nginx Links: nginx反向代理(端口转发) [[nginx]]可以在监听一个端口时，将消息按配置文件转发至其他内部端口，以实现多个应用部]]></description>
 </item><item>
     <title>Python下web.py使用ssl加密</title>
-    <link>http://example.org/python%E4%B8%8Bweb.py%E4%BD%BF%E7%94%A8ssl%E5%8A%A0%E5%AF%86/</link>
+    <link>https://Roxzmm.github.io/python%E4%B8%8Bweb.py%E4%BD%BF%E7%94%A8ssl%E5%8A%A0%E5%AF%86/</link>
     <pubDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/python%E4%B8%8Bweb.py%E4%BD%BF%E7%94%A8ssl%E5%8A%A0%E5%AF%86/</guid>
+    <guid>https://Roxzmm.github.io/python%E4%B8%8Bweb.py%E4%BD%BF%E7%94%A8ssl%E5%8A%A0%E5%AF%86/</guid>
     <description><![CDATA[Tags: #python #webpy #ssl #https Links: [[Python下web.py的环境部署]], [[Python实现开发模式下公众号自动回复]] Python下web.py使用ss]]></description>
 </item><item>
     <title>Python下web.py的环境部署</title>
-    <link>http://example.org/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</link>
+    <link>https://Roxzmm.github.io/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</link>
     <pubDate>Wed, 23 Mar 2022 21:15:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</guid>
+    <guid>https://Roxzmm.github.io/python%E4%B8%8Bweb.py%E7%9A%84%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</guid>
     <description><![CDATA[Tags: #python #webpy #环境部署 Links: [[Python下web.py使用ssl加密]], [[Python实现开发模式下公众号自动回复]] Python下web.p]]></description>
 </item></channel>
 </rss>
