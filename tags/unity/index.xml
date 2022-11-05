@@ -9,6 +9,6 @@
     <pubDate>Sat, 05 Nov 2022 22:31:00 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://Roxzmm.github.io/mctsboardgame/</guid>
-    <description><![CDATA[Introduction This is a Unity implementation of a board game with some kinds of automatic players based on Monte Carlo Tree Search. Demo Link: https:roxzmm.github.io/Mctsboardgame/ Attention Settings The number of players could only be 2, or 3, or 4. The number of characters for each player could only be 2, or 3, or 4. The size of board should be large enough to hold all players&rsquo; characters. MCTS MctsDDA: This]]></description>
+    <description><![CDATA[Introduction This is a Unity implementation of a board game with some kinds of automatic players based on Monte Carlo Tree Search. Demo Link: https://roxzmm.github.io/Mctsboardgame/ Attention Settings The number of players could only be 2, or 3, or 4. The number of characters for each player could only be 2, or 3, or 4. The size of board should be large enough to hold all players&rsquo; characters. MCTS MctsDDA: This]]></description>
 </item></channel>
 </rss>

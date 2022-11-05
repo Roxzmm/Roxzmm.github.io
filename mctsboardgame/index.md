@@ -8,7 +8,9 @@ This is a Unity implementation of a board game with some kinds of automatic play
 
 ### Demo Link: {#demo-link}
 
-<https:roxzmm.github.io/Mctsboardgame/>
+<https://roxzmm.github.io/Mctsboardgame/>
+
+
 
 
 ## Attention {#attention}
