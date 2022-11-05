@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mcts - 标签 - Roxzmm</title>
+        <link>https://Roxzmm.github.io/tags/mcts/</link>
+        <description>Mcts - 标签 - Roxzmm</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 05 Nov 2022 22:31:00 &#43;0800</lastBuildDate><atom:link href="https://Roxzmm.github.io/tags/mcts/" rel="self" type="application/rss+xml" /><item>
+    <title>MctsBoardGame</title>
+    <link>https://Roxzmm.github.io/mctsboardgame/</link>
+    <pubDate>Sat, 05 Nov 2022 22:31:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://Roxzmm.github.io/mctsboardgame/</guid>
+    <description><![CDATA[Introduction This is a Unity implementation of a board game with some kinds of automatic players based on Monte Carlo Tree Search. Demo Link: https:roxzmm.github.io/Mctsboardgame/ Attention Settings The number of players could only be 2, or 3, or 4. The number of characters for each player could only be 2, or 3, or 4. The size of board should be large enough to hold all players&rsquo; characters. MCTS MctsDDA: This]]></description>
+</item></channel>
+</rss>
