@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>design-pattern - 标签 - Roxzmm</title>
+        <link>https://Roxzmm.github.io/tags/design-pattern/</link>
+        <description>design-pattern - 标签 - Roxzmm</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 23 May 2022 21:45:00 &#43;0800</lastBuildDate><atom:link href="https://Roxzmm.github.io/tags/design-pattern/" rel="self" type="application/rss+xml" /><item>
+    <title>Design Pattern</title>
+    <link>https://Roxzmm.github.io/design-pattern/</link>
+    <pubDate>Mon, 23 May 2022 21:45:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://Roxzmm.github.io/design-pattern/</guid>
+    <description><![CDATA[Design Pattern 设计模式 the relationship between design patterns Creational Patterns Factory Pattern 工厂模式 Abstract Factory Pattern Singleton Pattern Builder Pattern Prototype Pattern Structural Patterns Adapter Pattern Bridge Pattern Filter、Criteria Pattern Composite Pattern Decorator Pattern Facade Pattern Flyweight Pattern Proxy Pattern Behavioral Patterns Chain of Responsibility Pattern Command Pattern Interpreter Pattern]]></description>
+</item></channel>
+</rss>

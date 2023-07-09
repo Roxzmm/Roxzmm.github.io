@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>game-engine - 标签 - Roxzmm</title>
+        <link>https://Roxzmm.github.io/tags/game-engine/</link>
+        <description>game-engine - 标签 - Roxzmm</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 09 Jul 2023 21:21:00 &#43;0800</lastBuildDate><atom:link href="https://Roxzmm.github.io/tags/game-engine/" rel="self" type="application/rss+xml" /><item>
+    <title>渲染领域发展路线</title>
+    <link>https://Roxzmm.github.io/%E6%B8%B2%E6%9F%93%E9%A2%86%E5%9F%9F%E5%8F%91%E5%B1%95%E8%B7%AF%E7%BA%BF/</link>
+    <pubDate>Sun, 09 Jul 2023 21:21:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://Roxzmm.github.io/%E6%B8%B2%E6%9F%93%E9%A2%86%E5%9F%9F%E5%8F%91%E5%B1%95%E8%B7%AF%E7%BA%BF/</guid>
+    <description><![CDATA[总览 工作职责 初级 中级 高级 程序向 工具编写 DCC工具开发 自动化工具系统 渲染知识、效果 深度优化渲染管线 美术流程 效率优化 环节规范 美术向 建立美术动作规]]></description>
+</item><item>
+    <title>GAMES104笔记</title>
+    <link>https://Roxzmm.github.io/games104%E7%AC%94%E8%AE%B0/</link>
+    <pubDate>Mon, 24 Oct 2022 14:56:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://Roxzmm.github.io/games104%E7%AC%94%E8%AE%B0/</guid>
+    <description><![CDATA[引擎架构 平台层 Platform 提供操作系统/平台相关的底层功能。 文件系统 file_service 路径 path 核心层 Core 提供软件系统常用模块。 基础库 base（宏、哈希） 色彩 color 数学库 math 元数]]></description>
+</item></channel>
+</rss>
